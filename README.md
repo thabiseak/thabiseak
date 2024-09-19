@@ -59,7 +59,6 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Thabiseak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Thabiseak&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thabiseak&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thabiseak&show_icons=true&theme=radical)
 
@@ -75,12 +74,18 @@
 <hr/>
 
 <br/>
+![Thabiseak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thabiseak&theme=github-compact)
 
 <div align="center">
 <a href='https://ko-fi.com/thabiseakt' target='_blank' rel='noopener noreferrer'>
   <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt=' Have a Coffee with me at ko-fi.com' />
 </a>
 </div>
-### Made By ❤️ HARISH © Copyright. All Rights Reserved @2024.
 
 <br/>
+<div align="center">
+
+### Made By ❤️ THABISEAK © Copyright. All Rights Reserved @2024.
+
+</div>
+
