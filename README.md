@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thavanesan+Thabiseak;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+
 
 <br/>
 
 <div align="center">
+   
  👨🏻‍💻 About me
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
     
